@@ -1,5 +1,5 @@
 # IMPLEMENTANDO ROBOS EM PYTHON
-Curso de Python no 1º BGE
+Curso de Python aplicado a Automaçao de Tarefas (ROBOS)
 
 Serão implementados diversos Robos para executar tarefas simples mas de forma automatizadas.
 Como por exemplo:
