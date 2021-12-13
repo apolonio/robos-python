@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+'''
+ATIVIDADE: Acessar o FACEBOOK passando os parametro usuario e senha
+
+'''
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
