@@ -3,11 +3,6 @@
 ATIVIDADE: Realizar uma busca de vagas no LINKEDIN passando um determinado tipo.
 '''
 
-#!/usr/bin/python3
-'''
-ATIVIDADE: Realizar uma busca de vagas no LINKEDIN passando um determinado tipo.
-'''
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
